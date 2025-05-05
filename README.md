@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 ## Project Overview
 
-The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9). This implementation achieves 99.14% accuracy on the test set using a simple CNN architecture.
+The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9). This implementation achieves 99.06% accuracy on the test set using a simple CNN architecture.
 
 ## Model Architecture
 
