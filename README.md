@@ -29,5 +29,5 @@ Flatten → FC(1024) → FC(10) → Output
 
 ## Results
 
-- Final Training Loss: 0.0101
-- Test Accuracy: 99.14%
+- Final Training Loss: 0.0103
+- Test Accuracy: 99.06%
